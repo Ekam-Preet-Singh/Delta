@@ -1,20 +1,15 @@
 
 
 # React-Demo Website
-<table>
-  <tr>
-    <td><img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/1.png" width=270 height=480></td>
-    <td><img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/2.png" width=270 height=480></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/3.png" width=270 height=480></td>
-    <td><img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/4.png" width=270 height=480></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/5.png" width=270 height=480></td>
-    <td><img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/6.png" width=270 height=480></td>
-  </tr>
- </table>
+
+<div align="center">
+ <img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/1.png">
+ <img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/2.png">
+ <img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/3.png">
+ <img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/4.png">
+ <img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/5.png">
+ <img src="https://github.com/Ekam-Preet-Singh/Delta/blob/master/public/6.png">
+ </div>
 
 
 ## Run Locally
